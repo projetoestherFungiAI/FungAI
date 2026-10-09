@@ -1,0 +1,14 @@
+{
+  "name":"FungiScan — Detector de Fungos",
+  "short_name":"FungiScan",
+  "description":"Sistema inteligente de detecção de doenças em folhas com modelagem de incerteza.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#07130d",
+  "theme_color":"#0d2418",
+  "orientation":"portrait",
+  "lang":"pt-BR",
+  "icons":[
+    {"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
